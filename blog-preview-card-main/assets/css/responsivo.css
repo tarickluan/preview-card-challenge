@@ -1,0 +1,15 @@
+@media(max-width: 375px) {
+    .cartao {
+        width: 90%;
+    }
+}
+
+@media(min-width: 1440px) {
+    .container {
+        max-width: 1440px;
+    }
+
+    .cartao {
+        width: 400px;
+    }
+}
